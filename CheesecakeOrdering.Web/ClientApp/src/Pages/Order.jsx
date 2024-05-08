@@ -1,4 +1,3 @@
-//not complete - do onSubmitClick..
 import OrderForm from "../components/OrderForm";
 import Preview from "../components/Preview";
 import { useState } from "react";
